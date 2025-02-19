@@ -1,0 +1,48 @@
+h1 {
+    text-align:center;
+    text-decoration:line-through;
+    text-transform:capitalize;
+
+    /* border-width:1px;
+    border-color:black;
+    border-style:solid;*/
+
+    border: 1px black solid;
+
+    /* border-top:1px black solid;*/
+    border radius:50%;
+
+    margin:10px 200px 50px 100px;
+
+    padding:10px;
+
+    height:100px;
+    width:100px;
+}
+ 
+.flex-container{
+    height:400px;
+    display:flex;
+    flex-direction:row;
+    justify-content:flex-start;
+    align-items:center;
+    flex-wrap:wrap;
+    background-color:rgb(234, 234, 241);
+    padding:20px;
+    gap:5px;
+}
+
+.flex-container div {
+    background-color:aqua;
+    color:azure;
+    padding:20px;
+    text-align:center;
+    width:200px;
+}
+dehajbdv
+{
+    fghyfgsdj
+    fidjuugsb
+    vkmvjnusbj
+    vmnfdhvklsn;
+}
